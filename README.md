@@ -10,11 +10,11 @@
 
 <br>
 
-<img src="./profile.jpg" width="150" height="150" alt="Sahana C M"/>
+<img src="./profile.jpeg" width="150" height="150" alt="Sahana C M"/>
 
 <br><br>
 
-# 🌸 Sahana C M
+#  Sahana C M
 
 ### Aspiring Software Engineer
 
