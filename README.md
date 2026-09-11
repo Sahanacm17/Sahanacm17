@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HERO -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ==================== HERO ==================== -->
 
 <table width="100%">
 <tr>
@@ -10,11 +8,11 @@
 
 <br>
 
-<img src="./profile.jpeg" width="150" height="150" alt="Sahana C M"/>
+<img src="./profile.jpg" width="150" height="150" alt="Sahana C M"/>
 
 <br><br>
 
-#  Sahana C M
+# 🌸 Sahana C M
 
 ### Aspiring Software Engineer
 
@@ -50,9 +48,8 @@ Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== ABOUT ME ==================== -->
 
 <table width="100%">
 <tr>
@@ -60,9 +57,9 @@ Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
 
 ## 🌷 About Me
 
-💻 **Information Science & Engineering Graduate**  
-🚀 **Aspiring Software Engineer**  
-☕ **Java** &nbsp; | &nbsp; 🐍 **Python** &nbsp; | &nbsp; 🌐 **Web Development**
+💻 Information Science & Engineering Graduate  
+🚀 Aspiring Software Engineer  
+☕ Java | 🐍 Python | 🌐 Web Development
 
 I enjoy building practical applications, exploring new technologies,
 and turning ideas into meaningful projects.
@@ -76,9 +73,8 @@ skills while growing as a software developer.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== TECH STACK ==================== -->
 
 <table width="100%">
 <tr>
@@ -88,34 +84,27 @@ skills while growing as a software developer.
 
 ### 💻 Programming Languages
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 
 ### 🌐 Frontend
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
 ### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
 ### 🗄️ Database
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 ### ☁️ Cloud
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 ### 🔧 Tools & Version Control
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
 
 </td>
 </tr>
@@ -123,9 +112,8 @@ skills while growing as a software developer.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== PROJECTS ==================== -->
 
 <table width="100%">
 <tr>
@@ -133,10 +121,15 @@ skills while growing as a software developer.
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<br>
+
 <table width="100%">
+
 <tr>
 
-<td width="33%" valign="top">
+<!-- PROJECT 1 -->
+
+<td width="50%" valign="top">
 
 <h3 align="center">🌪️ Disaster SHEro</h3>
 
@@ -144,75 +137,145 @@ skills while growing as a software developer.
 <b>Digital Disaster Preparedness & Education Platform</b>
 </p>
 
-• 📚 Educational content  
+• 📚 Interactive disaster preparedness platform  
 • 🧠 AI chatbot support  
 • 📝 Interactive quizzes  
 • 🚨 Virtual disaster drills  
-• 🔐 User authentication  
-• 👩‍💼 Admin dashboard  
+• 🔐 Secure user authentication  
+• 👩‍💻 Admin dashboard for content management  
+• 🌍 Region-focused preparedness features  
+
+<br>
 
 <b>Tech:</b>
 
 `HTML` `CSS` `JavaScript`  
 `Python` `Flask` `MySQL`
 
-<p align="center">
-🔗 <b>Repository</b>
-</p>
+<br><br>
+
+<b>Focus:</b>
+
+Full-Stack Development · AI · Database Management
 
 </td>
 
-<td width="33%" valign="top">
 
-<h3 align="center">💰 CoinD</h3>
+<!-- PROJECT 2 -->
 
-<p align="center">
-<b>Cryptocurrency Tracker</b>
-</p>
+<td width="50%" valign="top">
 
-• 📊 Real-time data  
-• 📈 Charts  
-• 🔎 Search & filtering  
-• 📱 Responsive interface  
-• 🔗 API integration  
-
-<b>Tech:</b>
-
-`HTML` `CSS` `JavaScript`  
-`API`
+<h3 align="center">🛡️ Gramin Shield</h3>
 
 <p align="center">
-🔗 <b>Repository</b>
+<b>AI-Powered Digital Payment Application</b>
 </p>
+
+<p align="center">
+📅 <b>April 2026</b>
+</p>
+
+• 🔐 Secure digital transactions  
+• 🌾 Designed for rural & semi-literate users  
+• 🛡️ Adaptive security based on transaction value  
+• 🔑 OTP authentication for high-value payments  
+• 🤖 AI-based fraud detection  
+• 🚨 Automatic prevention of potentially unauthorized transactions  
+
+<br>
+
+<b>Focus:</b>
+
+`AI` `Cybersecurity`  
+`Digital Payments` `Fraud Detection`
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+
+<tr>
+
+<!-- PROJECT 3 -->
+
+<td width="50%" valign="top">
 
 <h3 align="center">📚 Library Management System</h3>
 
 <p align="center">
-<b>Java Database Application</b>
+<b>Java-Based Database-Driven System</b>
 </p>
 
 • 📖 Book management  
 • 👤 User management  
-• 🔄 Issue & Return  
-• 📋 Transactions  
-• 🗄️ Database records  
+• 🔄 Issue & return operations  
+• 🗄️ Database integration  
+• 📊 Transaction management  
+• 🔧 CRUD operations using JDBC  
+
+<br>
 
 <b>Tech:</b>
 
 `Java` `JDBC` `MySQL` `SQL`
 
+<br><br>
+
+<b>Focus:</b>
+
+Backend Development · Database Management · JDBC
+
+</td>
+
+
+<!-- PROJECT 4 -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗳️ Aadhaar-Based Blockchain E-Voting System</h3>
+
 <p align="center">
-🔗 <b>Repository</b>
+<b>Secure Blockchain-Based E-Voting Prototype</b>
 </p>
+
+<p align="center">
+📅 <b>May 2026</b>
+</p>
+
+• 🔐 Built a blockchain e-voting prototype  
+• 🪪 Implemented Decentralized Identity (DID)  
+• 🔑 Used cryptographic hashing for security  
+• 🗄️ Integrated MongoDB for data management  
+• 👤 Secure & anonymous voter authentication  
+• ⛓️ Immutable & tamper-proof vote storage  
+
+<br>
+
+<b>Focus:</b>
+
+`Blockchain` `Cybersecurity`  
+`DID` `Cryptography` `MongoDB`
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
+
+<h3 align="center">☕ Java Mini Projects</h3>
+
+<p align="center">
+A collection of Java mini-projects built using Core Java,
+OOP concepts and problem-solving techniques.
+</p>
+
+<p align="center">
+<a href="https://github.com/Sahanacm17/Java-Mini-Projects">
+🔗 View Repository
+</a>
+</p>
 
 </td>
 </tr>
@@ -220,9 +283,8 @@ skills while growing as a software developer.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- EXPERIENCE -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== EXPERIENCE ==================== -->
 
 <table width="100%">
 <tr>
@@ -237,17 +299,17 @@ hands-on programming and application development.
 
 **Key Areas**
 
-☕ Java-based Applications  
-🧩 OOP & Problem Solving  
-🗄️ JDBC & MySQL  
-💬 Multithreading & Socket Programming  
-🔧 Git & GitHub
+- ☕ Developed Java-based applications
+- 🧩 Strengthened OOP and problem-solving skills
+- 🗄️ Worked with JDBC and MySQL
+- 💬 Explored multithreading and socket programming
+- 🔧 Used Git and GitHub to manage projects
 
-### Internship Projects
+**Internship Projects**
 
-🌱 **Level 1** — Core Java Projects  
-🚀 **Level 2** — Java Development Projects  
-💻 **Level 3** — Library Management System & Multithreaded Chat
+→ Level 1 — Core Java Projects  
+→ Level 2 — Java Development Projects  
+→ Level 3 — Library Management System & Multithreaded Chat
 
 </td>
 </tr>
@@ -255,9 +317,8 @@ hands-on programming and application development.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ACHIEVEMENTS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== ACHIEVEMENTS ==================== -->
 
 <table width="100%">
 <tr>
@@ -291,9 +352,8 @@ technology activity.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CERTIFICATIONS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== CERTIFICATIONS ==================== -->
 
 <table width="100%">
 <tr>
@@ -313,7 +373,9 @@ technology activity.
 ### ☁️ Cloud & Database
 
 - ☁️ **Getting Started with AWS** — AWS
+
 - 🍃 **Getting Started with MongoDB Atlas** — MongoDB
+
 - 🔎 **Managing Atlas Vector Search Indexes** — MongoDB
 
 </td>
@@ -322,9 +384,8 @@ technology activity.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== GITHUB STATS ==================== -->
 
 <table width="100%">
 <tr>
@@ -344,15 +405,16 @@ technology activity.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahanacm17&hide_border=true" width="95%"/>
 
+<br><br>
+
 </td>
 </tr>
 </table>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- BEYOND CODING -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== BEYOND CODING ==================== -->
 
 <table width="100%">
 <tr>
@@ -360,13 +422,10 @@ technology activity.
 
 ## 🌸 Beyond Coding
 
-🤝 Team Collaboration  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🎯 Event Coordination  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🎨 Creativity & Idea Development  
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🌱 Continuous Learning
+🤝 Team collaboration and communication  
+🎯 Event coordination and technical activities  
+🎨 Creativity and idea development  
+🌱 Continuous learning and personal growth
 
 </td>
 </tr>
@@ -374,15 +433,12 @@ technology activity.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- QUOTE + CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ==================== QUOTE + CONNECT ==================== -->
 
 <table width="100%">
 <tr>
 <td align="center" bgcolor="#F3E8FF">
-
-<br>
 
 > 💻 Every repository is a step forward.  
 > 🌱 Every project is an opportunity to learn.  
@@ -411,8 +467,6 @@ technology activity.
 <br><br>
 
 ✨ Always happy to connect, collaborate and learn together.
-
-<br>
 
 </td>
 </tr>
