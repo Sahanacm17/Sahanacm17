@@ -10,7 +10,7 @@
 
 <img src="./profile.jpeg" width="150" height="150" alt="Sahana C M"/>
 
-<br><br>
+<br>
 
 # Sahana C M
 
