@@ -1,41 +1,51 @@
 <div align="center">
 
-<!-- ==================== HERO ==================== -->
+<!-- ====================================================== -->
+<!--                    🌸 HERO SECTION                     -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FDEBF3">
+<td align="center" bgcolor="#FFF5FA">
 
-<br>
+<br><br>
 
 <img src="./profile.jpeg" width="190" height="190" alt="Sahana C M"/>
 
-# Sahana C M
+<br>
 
-### Aspiring Software Engineer
+<h1>Sahana C M</h1>
 
+<h3>Aspiring Software Engineer</h3>
+
+<p>
 💻 Java &nbsp; • &nbsp; 🐍 Python &nbsp; • &nbsp; 🌐 Web Development
+</p>
 
+<p>
 Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
+</p>
 
+<p>
 📍 Karnataka, India &nbsp; • &nbsp; ✉️ sahanacm1720@gmail.com
+</p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-B76E9E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore-5C5470?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-C08497?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -44,78 +54,112 @@ Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ====================================================== -->
+<!--                    🌷 ABOUT ME                         -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#FFF8F5">
+<td bgcolor="#FFF7FA">
 
-## 🌷 About Me
+<br>
 
-💻 Information Science & Engineering Graduate  
-🚀 Aspiring Software Engineer  
-☕ Java | 🐍 Python | 🌐 Web Development
+<h2>🌷 About Me</h2>
 
+<p>
+💻 Information Science & Engineering Graduate
+</p>
+
+<p>
+🚀 Aspiring Software Engineer
+</p>
+
+<p>
+☕ Java &nbsp; | &nbsp; 🐍 Python &nbsp; | &nbsp; 🌐 Web Development
+</p>
+
+<p>
 I enjoy building practical applications, exploring new technologies,
+<br>
 and turning ideas into meaningful projects.
+</p>
 
+<p>
 I'm continuously strengthening my programming and problem-solving
+<br>
 skills while growing as a software developer.
+</p>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== TECH STACK ==================== -->
+<!-- ====================================================== -->
+<!--                    🛠️ TECH STACK                      -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FCEFF6">
+<td align="center" bgcolor="#FCF4F8">
 
-## 🛠️ Tech Stack
+<br>
 
-### 💻 Programming Languages
+<h2>🛠️ Tech Stack</h2>
+
+<h3>💻 Programming Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,javascript"/>
 
-### 🌐 Frontend
+<br><br>
+
+<h3>🌐 Frontend</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
-### ⚙️ Backend
+<br><br>
+
+<h3>⚙️ Backend</h3>
 
 <img src="https://skillicons.dev/icons?i=java,python"/>
 
-### 🗄️ Database
+<br><br>
+
+<h3>🗄️ Database</h3>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-### ☁️ Cloud
+<br><br>
+
+<h3>☁️ Cloud</h3>
 
 <img src="https://skillicons.dev/icons?i=aws"/>
 
-### 🔧 Tools & Version Control
+<br><br>
+
+<h3>🔧 Tools & Version Control</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+<br><br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== PROJECTS ==================== -->
+<!-- ====================================================== -->
+<!--                    🚀 PROJECTS                        -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#F4EEFA">
+<td bgcolor="#FAF5FC">
+
+<br>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -125,67 +169,82 @@ skills while growing as a software developer.
 
 <tr>
 
-<!-- PROJECT 1 -->
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+<h3>🌪️ Disaster SHEro</h3>
 
-<h3 align="center">🌪️ Disaster SHEro</h3>
-
-<p align="center">
+<p>
 <b>Digital Disaster Preparedness & Education Platform</b>
 </p>
 
-• 📚 Interactive disaster preparedness platform  
-• 🧠 AI chatbot support  
-• 📝 Interactive quizzes  
-• 🚨 Virtual disaster drills  
-• 🔐 Secure user authentication  
-• 👩‍💻 Admin dashboard for content management  
-• 🌍 Region-focused preparedness features  
+<p align="left">
 
-<br>
+📚 Interactive disaster preparedness platform<br>
+🧠 AI chatbot support<br>
+📝 Interactive quizzes<br>
+🚨 Virtual disaster drills<br>
+🔐 Secure user authentication<br>
+👩‍💻 Admin dashboard for content management<br>
+🌍 Region-focused preparedness features
 
+</p>
+
+<p>
 <b>Tech:</b>
+</p>
 
-`HTML` `CSS` `JavaScript`  
-`Python` `Flask` `MySQL`
+<p>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<br>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+</p>
 
-<br><br>
-
-<b>Focus:</b>
-
+<p>
+<b>Focus:</b><br>
 Full-Stack Development · AI · Database Management
+</p>
 
 </td>
 
 
-<!-- PROJECT 2 -->
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+<h3>🛡️ Gramin Shield</h3>
 
-<h3 align="center">🛡️ Gramin Shield</h3>
-
-<p align="center">
+<p>
 <b>AI-Powered Digital Payment Application</b>
 </p>
 
-<p align="center">
+<p>
 📅 <b>April 2026</b>
 </p>
 
-• 🔐 Secure digital transactions  
-• 🌾 Designed for rural & semi-literate users  
-• 🛡️ Adaptive security based on transaction value  
-• 🔑 OTP authentication for high-value payments  
-• 🤖 AI-based fraud detection  
-• 🚨 Automatic prevention of potentially unauthorized transactions  
+<p align="left">
 
-<br>
+🔐 Secure digital transactions<br>
+🌾 Designed for rural & semi-literate users<br>
+🛡️ Adaptive security based on transaction value<br>
+🔑 OTP authentication for high-value payments<br>
+🤖 AI-based fraud detection<br>
+🚨 Automatic prevention of potentially unauthorized transactions
 
+</p>
+
+<p>
 <b>Focus:</b>
+</p>
 
-`AI` `Cybersecurity`  
-`Digital Payments` `Fraud Detection`
+<p>
+<code>AI</code>
+<code>Cybersecurity</code>
+<br>
+<code>Digital Payments</code>
+<code>Fraud Detection</code>
+</p>
 
 </td>
 
@@ -194,65 +253,79 @@ Full-Stack Development · AI · Database Management
 
 <tr>
 
-<!-- PROJECT 3 -->
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+<h3>📚 Library Management System</h3>
 
-<h3 align="center">📚 Library Management System</h3>
-
-<p align="center">
+<p>
 <b>Java-Based Database-Driven System</b>
 </p>
 
-• 📖 Book management  
-• 👤 User management  
-• 🔄 Issue & return operations  
-• 🗄️ Database integration  
-• 📊 Transaction management  
-• 🔧 CRUD operations using JDBC  
+<p align="left">
 
-<br>
+📖 Book management<br>
+👤 User management<br>
+🔄 Issue & return operations<br>
+🗄️ Database integration<br>
+📊 Transaction management<br>
+🔧 CRUD operations using JDBC
 
+</p>
+
+<p>
 <b>Tech:</b>
+</p>
 
-`Java` `JDBC` `MySQL` `SQL`
+<p>
+<code>Java</code>
+<code>JDBC</code>
+<code>MySQL</code>
+<code>SQL</code>
+</p>
 
-<br><br>
-
-<b>Focus:</b>
-
+<p>
+<b>Focus:</b><br>
 Backend Development · Database Management · JDBC
+</p>
 
 </td>
 
 
-<!-- PROJECT 4 -->
+<td width="50%" valign="top" align="center">
 
-<td width="50%" valign="top">
+<h3>🗳️ Aadhaar-Based Blockchain E-Voting System</h3>
 
-<h3 align="center">🗳️ Aadhaar-Based Blockchain E-Voting System</h3>
-
-<p align="center">
+<p>
 <b>Secure Blockchain-Based E-Voting Prototype</b>
 </p>
 
-<p align="center">
+<p>
 📅 <b>May 2026</b>
 </p>
 
-• 🔐 Built a blockchain e-voting prototype  
-• 🪪 Implemented Decentralized Identity (DID)  
-• 🔑 Used cryptographic hashing for security  
-• 🗄️ Integrated MongoDB for data management  
-• 👤 Secure & anonymous voter authentication  
-• ⛓️ Immutable & tamper-proof vote storage  
+<p align="left">
 
-<br>
+🔐 Built a blockchain e-voting prototype<br>
+🪪 Implemented Decentralized Identity (DID)<br>
+🔑 Used cryptographic hashing for security<br>
+🗄️ Integrated MongoDB for data management<br>
+👤 Secure & anonymous voter authentication<br>
+⛓️ Immutable & tamper-proof vote storage
 
+</p>
+
+<p>
 <b>Focus:</b>
+</p>
 
-`Blockchain` `Cybersecurity`  
-`DID` `Cryptography` `MongoDB`
+<p>
+<code>Blockchain</code>
+<code>Cybersecurity</code>
+<br>
+<code>DID</code>
+<code>Cryptography</code>
+<code>MongoDB</code>
+</p>
 
 </td>
 
@@ -262,151 +335,206 @@ Backend Development · Database Management · JDBC
 
 <br>
 
-<h3 align="center">☕ Java Mini Projects</h3>
+<h3>☕ Java Mini Projects</h3>
 
-<p align="center">
+<p>
 A collection of Java mini-projects built using Core Java,
+<br>
 OOP concepts and problem-solving techniques.
 </p>
 
-<p align="center">
+<p>
 <a href="https://github.com/Sahanacm17/Java-Mini-Projects">
 🔗 View Repository
 </a>
 </p>
 
+<br>
+
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== EXPERIENCE ==================== -->
+<!-- ====================================================== -->
+<!--                    💼 EXPERIENCE                      -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#FFF8F5">
+<td bgcolor="#FFF7FA">
 
-## 💼 Experience
+<br>
 
-### 🌸 Java Development Intern — Codveda Technologies
+<h2>💼 Experience</h2>
 
+<h3>🌸 Java Development Intern — Codveda Technologies</h3>
+
+<p>
 Completed a multi-level Java development internship focused on
+<br>
 hands-on programming and application development.
+</p>
 
-**Key Areas**
+<h4>Key Areas</h4>
 
-- ☕ Developed Java-based applications
-- 🧩 Strengthened OOP and problem-solving skills
-- 🗄️ Worked with JDBC and MySQL
-- 💬 Explored multithreading and socket programming
-- 🔧 Used Git and GitHub to manage projects
+<p>
+☕ Developed Java-based applications<br>
+🧩 Strengthened OOP and problem-solving skills<br>
+🗄️ Worked with JDBC and MySQL<br>
+💬 Explored multithreading and socket programming<br>
+🔧 Used Git and GitHub to manage projects
+</p>
 
-**Internship Projects**
+<h4>Internship Projects</h4>
 
-→ Level 1 — Core Java Projects  
-→ Level 2 — Java Development Projects  
+<p>
+→ Level 1 — Core Java Projects<br>
+→ Level 2 — Java Development Projects<br>
 → Level 3 — Library Management System & Multithreaded Chat
+</p>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== ACHIEVEMENTS ==================== -->
+<!-- ====================================================== -->
+<!--                 🏆 ACHIEVEMENTS                       -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#F4EEFA">
+<td bgcolor="#FAF5FC">
 
-## 🏆 Achievements & Highlights
+<br>
 
-### 🌌 NASA Space Apps Challenge
+<h2>🏆 Achievements & Highlights</h2>
 
+<h3>🌌 NASA Space Apps Challenge</h3>
+
+<p>
 Participated in a global collaborative challenge focused on
+<br>
 solving real-world problems using technology and data.
+</p>
 
-### 🔐 Cybersecurity Hackathon
+<h3>🔐 Cybersecurity Hackathon</h3>
 
+<p>
 Explored innovative cybersecurity solutions addressing
+<br>
 real-world digital security challenges.
+</p>
 
-### 🌐 NetHive Technical Club
+<h3>🌐 NetHive Technical Club</h3>
 
+<p>
 Contributed to technical club activities, event coordination
+<br>
 and collaborative initiatives.
+</p>
 
-### 🎨 ICONIFY — Team Ninefinity
+<h3>🎨 ICONIFY — Team Ninefinity</h3>
 
+<p>
 Participated in a team-based logo design and creative
+<br>
 technology activity.
+</p>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== CERTIFICATIONS ==================== -->
+<!-- ====================================================== -->
+<!--                 📜 CERTIFICATIONS                     -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td bgcolor="#FCEFF6">
+<td bgcolor="#FCF4F8">
 
-## 📜 Certifications
+<br>
 
-### 🏅 NPTEL Certifications
+<h2>📜 Certifications</h2>
 
-- 🐍 **The Joy of Computing using Python** — NPTEL, IIT Madras
-  - 🏆 **Elite | 64%**
+<h3>🏅 NPTEL Certifications</h3>
 
-- ☕ **Data Structures and Algorithms using Java** — NPTEL, IIT Kharagpur
+<p>
+🐍 <b>The Joy of Computing using Python</b> — NPTEL, IIT Madras
+<br>
+🏆 <b>Elite | 64%</b>
+</p>
 
-- 🌐 **Computer Networks and Internet Protocol** — NPTEL, IIT Kharagpur
+<p>
+☕ <b>Data Structures and Algorithms using Java</b>
+— NPTEL, IIT Kharagpur
+</p>
 
-### ☁️ Cloud & Database
+<p>
+🌐 <b>Computer Networks and Internet Protocol</b>
+— NPTEL, IIT Kharagpur
+</p>
 
-- ☁️ **Getting Started with AWS** — AWS
+<h3>☁️ Cloud & Database</h3>
 
-- 🍃 **Getting Started with MongoDB Atlas** — MongoDB
+<p>
+☁️ <b>Getting Started with AWS</b> — AWS
+</p>
 
-- 🔎 **Managing Atlas Vector Search Indexes** — MongoDB
+<p>
+🍃 <b>Getting Started with MongoDB Atlas</b> — MongoDB
+</p>
+
+<p>
+🔎 <b>Managing Atlas Vector Search Indexes</b> — MongoDB
+</p>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== GITHUB JOURNEY ==================== -->
+<!-- ====================================================== -->
+<!--                 📊 GITHUB JOURNEY                     -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#F4EEFA">
+<td align="center" bgcolor="#FAF5FC">
+
+<br>
 
 <h2>📊 GitHub Journey</h2>
 
 <br>
 
 <a href="https://github.com/Sahanacm17">
+
 <img
 src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github"
 alt="GitHub Stats"
 />
+
 </a>
 
 <br><br>
 
 <a href="https://github.com/Sahanacm17">
+
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanacm17&layout=compact&hide_border=true"
 alt="Top Languages"
 />
+
 </a>
 
 <br><br>
@@ -415,62 +543,104 @@ alt="Top Languages"
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== BEYOND CODING ==================== -->
+<!-- ====================================================== -->
+<!--                 🌸 BEYOND CODING                     -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF8F5">
+<td align="center" bgcolor="#FFF7FA">
 
-## 🌸 Beyond Coding
+<br>
 
-🤝 Team collaboration and communication  
-🎯 Event coordination and technical activities  
-🎨 Creativity and idea development  
+<h2>🌸 Beyond Coding</h2>
+
+<p>
+🤝 Team collaboration and communication
+</p>
+
+<p>
+🎯 Event coordination and technical activities
+</p>
+
+<p>
+🎨 Creativity and idea development
+</p>
+
+<p>
 🌱 Continuous learning and personal growth
+</p>
+
+<br>
 
 </td>
 </tr>
 </table>
 
-<br>
 
-
-<!-- ==================== QUOTE + CONNECT ==================== -->
+<!-- ====================================================== -->
+<!--                 💭 QUOTE                              -->
+<!-- ====================================================== -->
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#F4EEFA">
-
-> 💻 Every repository is a step forward.  
-> 🌱 Every project is an opportunity to learn.  
-> 🚀 Every commit is progress.
+<td align="center" bgcolor="#FAF5FC">
 
 <br>
 
-## 🌸 Let's Connect
+<h3>💭 A Little Reminder</h3>
+
+<p>
+<i>
+“Every repository is a step forward.<br>
+Every project is an opportunity to learn.<br>
+Every commit is progress.”
+</i>
+</p>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+
+<!-- ====================================================== -->
+<!--                 🌸 CONNECT                            -->
+<!-- ====================================================== -->
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#FFF5FA">
+
+<br>
+
+<h2>🌸 Let's Connect</h2>
+
+<br>
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-B76E9E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-5C5470?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-C08497?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 ✨ Always happy to connect, collaborate and learn together.
+
+<br><br>
 
 </td>
 </tr>
