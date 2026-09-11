@@ -10,7 +10,6 @@
 
 <img src="./profile.jpeg" width="190" height="190" alt="Sahana C M"/>
 
-
 # Sahana C M
 
 ### Aspiring Software Engineer
@@ -384,12 +383,6 @@ technology activity.
 <br>
 
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#F3E8FF">
-
 <!-- ==================== GITHUB JOURNEY ==================== -->
 
 <table width="100%">
@@ -401,13 +394,19 @@ technology activity.
 <br>
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github"
+alt="GitHub Stats"
+/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanacm17&layout=compact&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanacm17&layout=compact&hide_border=true"
+alt="Top Languages"
+/>
 </a>
 
 <br><br>
@@ -415,6 +414,8 @@ technology activity.
 </td>
 </tr>
 </table>
+
+<br>
 
 
 <!-- ==================== BEYOND CODING ==================== -->
