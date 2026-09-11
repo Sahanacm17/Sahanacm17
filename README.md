@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="./profile.jpeg" width="150" height="150" alt="Sahana C M"/>
+<img src="./profile.jpeg" width="190" height="190" alt="Sahana C M"/>
 
 
 # Sahana C M
