@@ -4,7 +4,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF0F6">
+<td align="center" bgcolor="#FDEBF3">
 
 <br>
 
@@ -51,7 +51,7 @@ Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
 
 <table width="100%">
 <tr>
-<td bgcolor="#F3E8FF">
+<td bgcolor="#FFF8F5">
 
 ## 🌷 About Me
 
@@ -76,7 +76,7 @@ skills while growing as a software developer.
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF0F6">
+<td align="center" bgcolor="#FCEFF6">
 
 ## 🛠️ Tech Stack
 
@@ -115,7 +115,7 @@ skills while growing as a software developer.
 
 <table width="100%">
 <tr>
-<td bgcolor="#F3E8FF">
+<td bgcolor="#F4EEFA">
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -286,7 +286,7 @@ OOP concepts and problem-solving techniques.
 
 <table width="100%">
 <tr>
-<td bgcolor="#FFF0F6">
+<td bgcolor="#FFF8F5">
 
 ## 💼 Experience
 
@@ -320,7 +320,7 @@ hands-on programming and application development.
 
 <table width="100%">
 <tr>
-<td bgcolor="#F3E8FF">
+<td bgcolor="#F4EEFA">
 
 ## 🏆 Achievements & Highlights
 
@@ -355,7 +355,7 @@ technology activity.
 
 <table width="100%">
 <tr>
-<td bgcolor="#FFF0F6">
+<td bgcolor="#FCEFF6">
 
 ## 📜 Certifications
 
@@ -387,7 +387,7 @@ technology activity.
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#F3E8FF">
+<td align="center" bgcolor="#F4EEFA">
 
 <h2>📊 GitHub Journey</h2>
 
@@ -422,7 +422,7 @@ alt="Top Languages"
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF0F6">
+<td align="center" bgcolor="#FFF8F5">
 
 ## 🌸 Beyond Coding
 
@@ -442,7 +442,7 @@ alt="Top Languages"
 
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#F3E8FF">
+<td align="center" bgcolor="#F4EEFA">
 
 > 💻 Every repository is a step forward.  
 > 🌱 Every project is an opportunity to learn.  
