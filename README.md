@@ -391,27 +391,31 @@ technology activity.
 <tr>
 <td align="center" bgcolor="#F3E8FF">
 
-## 📊 GitHub Journey
+<!-- ==================== GITHUB JOURNEY ==================== -->
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#F3E8FF">
+
+<h2>📊 GitHub Journey</h2>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-&nbsp;&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanacm17&layout=compact&hide_border=true" height="170"/>
+<a href="https://github.com/Sahanacm17">
+<img src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahanacm17&hide_border=true" width="95%"/>
+<a href="https://github.com/Sahanacm17">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanacm17&layout=compact&hide_border=true" />
+</a>
 
 <br><br>
 
 </td>
 </tr>
 </table>
-
-<br>
 
 
 <!-- ==================== BEYOND CODING ==================== -->
