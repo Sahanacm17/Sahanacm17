@@ -1,129 +1,133 @@
 <div align="center">
 
-<img src="./profile.jpeg" width="280" height="280">
+<img src="./profile.jpeg" width="280" height="280" alt="Sahana C M">
 
 <br>
 
-# Sahana C M
+<h1>Sahana C M</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Python+%7C+Web+Development;Building+Practical+Projects;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Python+%7C+Web+Development;Building+Practical+Projects;Always+Learning+Something+New" alt="Typing animation">
 
 <br>
 
-### Aspiring Software Engineer
+<h3>Aspiring Software Engineer</h3>
 
-**Java • Python • Web Development**
+<p>
+<strong>Java • Python • Web Development</strong>
+</p>
 
+<p>
 Building Projects • Learning • Growing 🌷
+</p>
 
-📍 Karnataka, India
+<p>📍 Karnataka, India</p>
 
 <br>
 
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFF0F5?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/Email-FFF0F5?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
-<img src="https://img.shields.io/badge/LinkedIn-F8F0FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<img src="https://img.shields.io/badge/LinkedIn-F8F0FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=181717">
+<img src="https://img.shields.io/badge/GitHub-FFF0F5?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub">
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
+<h2 align="center">🌷 About Me</h2>
 
-## 🌷 About Me
-
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
-<td width="30%" align="center">
+<td align="center" width="33%">
 
-<b>👩🏻‍💻 Who I Am</b>
+<h3>👩🏻‍💻 Who I Am</h3>
 
-<br>
-
+<p>
 Information Science & Engineering graduate with a strong interest in software development and application building.
+</p>
 
 </td>
 
-<td width="30%" align="center">
+<td align="center" width="33%">
 
-<b>💻 What I Build</b>
+<h3>💻 What I Build</h3>
 
+<p>
 I enjoy creating practical projects, exploring technologies, and strengthening my programming and problem-solving skills.
+</p>
 
 </td>
 
-<td width="30%" align="center">
+<td align="center" width="33%">
 
-<b>🌱 Currently Learning</b>
+<h3>🌱 Currently Learning</h3>
 
-<b>Java · Python · Web Development</b>
+<p>
+<strong>Java • Python • Web Development</strong>
+</p>
 
+<p>
 Databases, software engineering, and stronger problem-solving skills.
+</p>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
+<h2 align="center">💻 Tech Stack</h2>
 
-## 💻 Tech Stack
-
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-<b>Programming Languages</b>
+<h3>Programming Languages</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-<b>Frontend</b>
+<h3>Frontend</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
 </td>
 
-<td align="center" width="30%">
+<td align="center" width="33%">
 
-<b>Backend</b>
+<h3>Backend</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+</p>
 
 </td>
 
@@ -131,96 +135,111 @@ Databases, software engineering, and stronger problem-solving skills.
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Database</b>
+<h3>Database</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</p>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Cloud</b>
+<h3>Cloud</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+</p>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Tools & Version Control</b>
+<h3>Tools & Version Control</h3>
 
-<br>
-
+<p>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
----
-<div align="center">
- 
-## ✨ Featured Projects
+<h2 align="center">✨ Featured Projects</h2>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🌸 Disaster SHEro
+<h3>🌸 Disaster SHEro</h3>
 
-**Digital Disaster Preparedness & Education Platform**
+<p><strong>Digital Disaster Preparedness & Education Platform</strong></p>
 
+<p>
 An interactive platform designed to improve disaster preparedness and awareness.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 🤖 AI chatbot support
-- 📝 Interactive quizzes
-- 🚨 Virtual disaster drills
-- 🔐 Secure user authentication
-- 🛠️ Admin dashboard
-- 📚 Disaster preparedness content
+<ul>
+<li>🤖 AI chatbot support</li>
+<li>📝 Interactive quizzes</li>
+<li>🚨 Virtual disaster drills</li>
+<li>🔐 Secure user authentication</li>
+<li>🛠️ Admin dashboard</li>
+<li>📚 Disaster preparedness content</li>
+</ul>
 
-**Technologies**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MySQL`
+<p>
+<strong>Technologies:</strong><br>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🛡️ Gramin Shield
+<h3>🛡️ Gramin Shield</h3>
 
-**AI-Powered Digital Payment Application**
+<p><strong>AI-Powered Digital Payment Application</strong></p>
 
+<p>
 A secure digital payment concept designed with rural and semi-literate users in mind.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 💳 Secure digital transactions
-- 🔐 Adaptive transaction security
-- 🔑 OTP authentication for high-value payments
-- 🤖 AI-based fraud detection
-- 📱 Accessible digital payment design
+<ul>
+<li>💳 Secure digital transactions</li>
+<li>🔐 Adaptive transaction security</li>
+<li>🔑 OTP authentication for high-value payments</li>
+<li>🤖 AI-based fraud detection</li>
+<li>📱 Accessible digital payment design</li>
+</ul>
 
-**Focus Areas**
-
-`AI` `Cybersecurity` `Digital Payments` `Fraud Detection`
+<p>
+<strong>Focus Areas:</strong><br>
+<code>AI</code>
+<code>Cybersecurity</code>
+<code>Digital Payments</code>
+<code>Fraud Detection</code>
+</p>
 
 </td>
 
@@ -228,49 +247,65 @@ A secure digital payment concept designed with rural and semi-literate users in 
 
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 📚 Library Management System
+<h3>📚 Library Management System</h3>
 
-**Java-Based Database-Driven System**
+<p><strong>Java-Based Database-Driven System</strong></p>
 
+<p>
 A database-connected Java application for managing books, users, and transactions.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 📖 Book management
-- 👤 User management
-- 🔄 Issue and return operations
-- 📋 Transaction management
-- 🗄️ CRUD operations
-- 🔗 JDBC database integration
+<ul>
+<li>📖 Book management</li>
+<li>👤 User management</li>
+<li>🔄 Issue and return operations</li>
+<li>📋 Transaction management</li>
+<li>🗄️ CRUD operations</li>
+<li>🔗 JDBC database integration</li>
+</ul>
 
-**Technologies**
-
-`Java` `JDBC` `MySQL` `SQL`
+<p>
+<strong>Technologies:</strong><br>
+<code>Java</code>
+<code>JDBC</code>
+<code>MySQL</code>
+<code>SQL</code>
+</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ⛓️ Aadhaar-Based Blockchain E-Voting System
+<h3>⛓️ Aadhaar-Based Blockchain E-Voting System</h3>
 
-**Secure Blockchain-Based E-Voting Prototype**
+<p><strong>Secure Blockchain-Based E-Voting Prototype</strong></p>
 
+<p>
 A prototype exploring secure and transparent digital voting using blockchain concepts.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 🔗 Blockchain-based voting
-- 🆔 Decentralized Identity (DID)
-- 🔐 Cryptographic hashing
-- 🗄️ MongoDB integration
-- 🛡️ Secure voter authentication
-- 📦 Immutable vote storage
+<ul>
+<li>🔗 Blockchain-based voting</li>
+<li>🆔 Decentralized Identity (DID)</li>
+<li>🔐 Cryptographic hashing</li>
+<li>🗄️ MongoDB integration</li>
+<li>🛡️ Secure voter authentication</li>
+<li>📦 Immutable vote storage</li>
+</ul>
 
-**Technologies**
-
-`Blockchain` `DID` `Cryptography` `MongoDB`
+<p>
+<strong>Technologies:</strong><br>
+<code>Blockchain</code>
+<code>DID</code>
+<code>Cryptography</code>
+<code>MongoDB</code>
+</p>
 
 </td>
 
@@ -278,188 +313,237 @@ A prototype exploring secure and transparent digital voting using blockchain con
 
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### ☕ Java Mini Projects
+<h3>☕ Java Mini Projects</h3>
 
+<p>
 A collection of Java mini-projects developed using Core Java, OOP concepts, and problem-solving techniques.
+</p>
 
-**Focus Areas**
+<strong>Focus Areas</strong>
 
-- Core Java
-- Object-Oriented Programming
-- Problem Solving
-- Console Applications
-
-<br>
+<ul>
+<li>Core Java</li>
+<li>Object-Oriented Programming</li>
+<li>Problem Solving</li>
+<li>Console Applications</li>
+</ul>
 
 <a href="https://github.com/Sahanacm17/Java-Mini-Projects">
-<img src="https://img.shields.io/badge/View%20Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="View Java Mini Projects">
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🚀 More Projects Coming Soon
+<h3>🚀 More Projects Coming Soon</h3>
 
+<p>
 Continuously building and experimenting with new projects to strengthen my development skills.
+</p>
 
-**Currently Exploring**
+<strong>Currently Exploring</strong>
 
-`Java` `Python` `Web Development` `Databases`
+<p>
+<code>Java</code>
+<code>Python</code>
+<code>Web Development</code>
+<code>Databases</code>
+</p>
 
 </td>
 
 </tr>
 </table>
 
----
-
-## 💼 Experience
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### ☕ Java Development Intern
-**Codveda Technologies**
-
-Completed a multi-level Java development internship focused on hands-on programming and application development.
-
 <br>
 
-<b>🔑 Key Areas</b>
+<h2 align="center">💼 Experience</h2>
 
-☕ Java application development  
-🧩 Object-Oriented Programming  
-🧠 Problem-solving  
-🗄️ JDBC & MySQL  
-🧵 Multithreading  
-🌐 Socket programming  
-🔧 Git & GitHub
+<table align="center" width="90%">
+<tr>
+
+<td valign="top" width="50%">
+
+<h3>☕ Java Development Intern</h3>
+
+<p><strong>Codveda Technologies</strong></p>
+
+<p>
+Completed a multi-level Java development internship focused on hands-on programming and application development.
+</p>
+
+<h3>🔑 Key Areas</h3>
+
+<ul>
+<li>☕ Java application development</li>
+<li>🧩 Object-Oriented Programming</li>
+<li>🧠 Problem-solving</li>
+<li>🗄️ JDBC & MySQL</li>
+<li>🧵 Multithreading</li>
+<li>🌐 Socket programming</li>
+<li>🔧 Git & GitHub</li>
+</ul>
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🚀 Internship Projects
+<h3>🚀 Internship Projects</h3>
 
-<br>
-
-<b>Level 1</b>  
+<p>
+<strong>Level 1</strong><br>
 Core Java
+</p>
 
-<b>Level 2</b>  
+<p>
+<strong>Level 2</strong><br>
 Java Development
+</p>
 
-<b>Level 3</b>  
-Library Management System  
+<p>
+<strong>Level 3</strong><br>
+Library Management System<br>
 & Multithreaded Chat
+</p>
 
 </td>
 
 </tr>
+</table>
+
+<br>
+
+<h2 align="center">🏆 Achievements & Highlights</h2>
+
+<table align="center" width="90%">
+<tr>
+
+<td valign="top" width="50%">
+
+<h3>🚀 NASA Space Apps Challenge</h3>
+
+<p>
+Participated in a global collaborative challenge focused on solving real-world problems using technology, data, and innovation.
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+<h3>🔐 Cybersecurity Hackathon</h3>
+
+<p>
+Explored innovative cybersecurity solutions addressing real-world digital security challenges.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+<h3>🌐 NetHive Technical Club</h3>
+
+<p>
+Contributed to technical club activities, event coordination, and collaborative initiatives.
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+<h3>🎨 ICONIFY — Team Ninefinity</h3>
+
+<p>
+Participated in a team-based logo design and creative technology activity.
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">📜 Certifications</h2>
+
+<div align="center">
+
+<table align="center" width="80%">
+
+<tr>
+<td>🐍</td>
+<td><strong>The Joy of Computing using Python</strong></td>
+<td>NPTEL, IIT Madras — <strong>Elite | 64%</strong></td>
+</tr>
+
+<tr>
+<td>☕</td>
+<td><strong>Data Structures and Algorithms using Java</strong></td>
+<td>NPTEL, IIT Kharagpur</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td><strong>Computer Networks and Internet Protocol</strong></td>
+<td>NPTEL, IIT Kharagpur</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><strong>Getting Started with AWS</strong></td>
+<td>AWS</td>
+</tr>
+
+<tr>
+<td>🍃</td>
+<td><strong>Getting Started with MongoDB Atlas</strong></td>
+<td>MongoDB</td>
+</tr>
+
+<tr>
+<td>🔎</td>
+<td><strong>Managing Atlas Vector Search Indexes</strong></td>
+<td>MongoDB</td>
+</tr>
+
 </table>
 
 </div>
 
-<div align="center">
+<br>
 
-## 🏆 Achievements & Highlights
+<h2 align="center">📊 GitHub Highlights</h2>
 
-<table align="center">
+<table align="center" width="80%">
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🚀 NASA Space Apps Challenge
+<h3>💻 Java</h3>
 
-Participated in a global collaborative challenge focused on solving real-world problems using technology, data, and innovation.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity Hackathon
-
-Explored innovative cybersecurity solutions addressing real-world digital security challenges.
+<p>Primary Development</p>
 
 </td>
 
-</tr>
+<td align="center" width="33%">
 
-<tr>
+<h3>🚀 Projects</h3>
 
-<td width="50%" valign="top">
-
-### 🌐 NetHive Technical Club
-
-Contributed to technical club activities, event coordination, and collaborative initiatives.
+<p>Hands-on Learning</p>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### 🎨 ICONIFY — Team Ninefinity
+<h3>📚 Learning</h3>
 
-Participated in a team-based logo design and creative technology activity.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📜 Certifications
-
-- 🐍 **The Joy of Computing using Python** — NPTEL, IIT Madras  
-  **Elite | 64%**
-
-- ☕ **Data Structures and Algorithms using Java** — NPTEL, IIT Kharagpur
-
-- 🌐 **Computer Networks and Internet Protocol** — NPTEL, IIT Kharagpur
-
-- ☁️ **Getting Started with AWS** — AWS
-
-- 🍃 **Getting Started with MongoDB Atlas** — MongoDB
-
-- 🔎 **Managing Atlas Vector Search Indexes** — MongoDB
-
----
-
-<div align="center">
-
-## 📊 GitHub Highlights
-
-<table align="center">
-<tr>
-
-<td align="center" width="30%">
-
-### 📁 21+
-
-Public Repositories
-
-</td>
-
-<td align="center" width="30%">
-
-### ☕ Java
-
-Primary Development
-
-</td>
-
-<td align="center" width="30%">
-
-### 🚀 Projects
-
-Hands-on Learning
+<p>Continuous Growth</p>
 
 </td>
 
@@ -467,95 +551,65 @@ Hands-on Learning
 </table>
 
 <br>
+
+<div align="center">
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/Explore%20My%20GitHub-9B5DE5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
 </a>
 
 </div>
 
----
+<br>
+
+<h2 align="center">🌱 Beyond Coding</h2>
 
 <div align="center">
 
-## 🌱 Beyond Coding
+<p>
+🤝 <strong>Team Collaboration</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎤 <strong>Communication</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎯 <strong>Event Coordination</strong>
+</p>
 
-<table align="center">
-<tr>
-
-<td align="center">
-
-🤝
-<br>
-<b>Team Collaboration</b>
-
-</td>
-
-<td align="center">
-
-🎤
-<br>
-<b>Communication</b>
-
-</td>
-
-<td align="center">
-
-🎯
-<br>
-<b>Event Coordination</b>
-
-</td>
-
-<td align="center">
-
-💡
-<br>
-<b>Idea Development</b>
-
-</td>
-
-<td align="center">
-
-📚
-<br>
-<b>Continuous Learning</b>
-
-</td>
-
-</tr>
-</table>
+<p>
+💡 <strong>Idea Development</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📚 <strong>Continuous Learning</strong>
+</p>
 
 </div>
 
----
+<br>
 
-## 💌 Let's Connect
+<h2 align="center">💌 Let's Connect</h2>
 
 <div align="center">
 
+<p>
 I’m always open to connecting with professionals, collaborating on meaningful projects,
+<br>
 and exploring opportunities to learn and grow.
+</p>
 
+<br>
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-<br>
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br>
-
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-### ✨ Sahana C M ✨
+<p><strong>✨ Sahana C M ✨</strong></p>
 
 </div>
