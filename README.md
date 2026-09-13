@@ -430,7 +430,7 @@ technology activity.
 </table>
 
 
-<!-- ==================== GITHUB JOURNEY ==================== -->
+<!-- ==================== GITHUB HIGHLIGHTS ==================== -->
 
 <table width="100%">
 <tr>
@@ -438,32 +438,47 @@ technology activity.
 
 <br>
 
-<h2>GitHub Journey</h2>
+<h2>GitHub Highlights</h2>
 
 <hr>
 
 <p>
-Open-source projects, experiments, and continuous learning.
+A growing collection of projects, experiments, and hands-on learning.
 </p>
 
 <br>
 
-<a href="https://github.com/Sahanacm17">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Sahanacm17&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-  alt="GitHub Stats"
-  height="180"
-/>
-</a>
+<table width="90%">
+<tr>
 
-&nbsp;&nbsp;&nbsp;
+<td align="center" width="33%">
+
+<h3>21+</h3>
+<p>Public Repositories</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>Java</h3>
+<p>Primary Development</p>
+
+</td>
+
+<td align="center" width="33%">
+
+<h3>Projects</h3>
+<p>Hands-on Learning</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <a href="https://github.com/Sahanacm17">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahanacm17&layout=compact&hide_border=true&theme=transparent"
-  alt="Top Languages"
-  height="180"
-/>
+<img src="https://img.shields.io/badge/View%20All%20Repositories-6D6875?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
@@ -471,7 +486,6 @@ Open-source projects, experiments, and continuous learning.
 </td>
 </tr>
 </table>
-
 
 
 
