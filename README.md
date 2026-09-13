@@ -132,23 +132,9 @@ Databases, software engineering, and stronger problem-solving skills.
 <h3>🌸 Disaster SHEro</h3>
 
 <p>
-<strong>Digital Disaster Preparedness & Education Platform</strong>
+<strong>Digital Disaster Preparedness & Education Platform</strong><br>
+An interactive platform featuring AI chatbot support, quizzes, virtual disaster drills, secure authentication, and an admin dashboard.
 </p>
-
-<p>
-An interactive platform designed to improve disaster preparedness and awareness.
-</p>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>🤖 AI chatbot support</li>
-<li>📝 Interactive quizzes</li>
-<li>🚨 Virtual disaster drills</li>
-<li>🔐 Secure user authentication</li>
-<li>🛠️ Admin dashboard</li>
-<li>📚 Disaster preparedness content</li>
-</ul>
 
 <p>
 <strong>Technologies:</strong>
@@ -162,30 +148,15 @@ An interactive platform designed to improve disaster preparedness and awareness.
 
 <br>
 
----
-
 <h3>🛡️ Gramin Shield</h3>
 
 <p>
-<strong>AI-Powered Digital Payment Application</strong>
+<strong>AI-Powered Digital Payment Application</strong><br>
+A secure digital payment concept focused on adaptive transaction security, AI-based fraud detection, OTP authentication, and accessible digital payments.
 </p>
 
 <p>
-A secure digital payment concept designed with rural and semi-literate users in mind.
-</p>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>💳 Secure digital transactions</li>
-<li>🔐 Adaptive transaction security</li>
-<li>🔑 OTP authentication for high-value payments</li>
-<li>🤖 AI-based fraud detection</li>
-<li>📱 Accessible digital payment design</li>
-</ul>
-
-<p>
-<strong>Focus Areas:</strong>
+<strong>Focus:</strong>
 <code>AI</code>
 <code>Cybersecurity</code>
 <code>Digital Payments</code>
@@ -194,28 +165,12 @@ A secure digital payment concept designed with rural and semi-literate users in 
 
 <br>
 
----
-
 <h3>📚 Library Management System</h3>
 
 <p>
-<strong>Java-Based Database-Driven System</strong>
+<strong>Java-Based Database-Driven System</strong><br>
+A database-connected Java application for managing books, users, issue/return operations, and transactions using CRUD functionality.
 </p>
-
-<p>
-A database-connected Java application for managing books, users, and transactions.
-</p>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>📖 Book management</li>
-<li>👤 User management</li>
-<li>🔄 Issue and return operations</li>
-<li>📋 Transaction management</li>
-<li>🗄️ CRUD operations</li>
-<li>🔗 JDBC database integration</li>
-</ul>
 
 <p>
 <strong>Technologies:</strong>
@@ -227,28 +182,12 @@ A database-connected Java application for managing books, users, and transaction
 
 <br>
 
----
-
 <h3>⛓️ Aadhaar-Based Blockchain E-Voting System</h3>
 
 <p>
-<strong>Secure Blockchain-Based E-Voting Prototype</strong>
+<strong>Secure Blockchain-Based E-Voting Prototype</strong><br>
+A prototype exploring secure digital voting through blockchain concepts, decentralized identity, cryptographic hashing, voter authentication, and immutable vote storage.
 </p>
-
-<p>
-A prototype exploring secure and transparent digital voting using blockchain concepts.
-</p>
-
-<strong>Key Features</strong>
-
-<ul>
-<li>🔗 Blockchain-based voting</li>
-<li>🆔 Decentralized Identity (DID)</li>
-<li>🔐 Cryptographic hashing</li>
-<li>🗄️ MongoDB integration</li>
-<li>🛡️ Secure voter authentication</li>
-<li>📦 Immutable vote storage</li>
-</ul>
 
 <p>
 <strong>Technologies:</strong>
@@ -260,24 +199,11 @@ A prototype exploring secure and transparent digital voting using blockchain con
 
 <br>
 
----
-
 <h3>☕ Java Mini Projects</h3>
 
 <p>
-A collection of Java mini-projects developed using Core Java, OOP concepts, and problem-solving techniques.
+A collection of Java mini-projects built using Core Java, OOP concepts, problem-solving techniques, and console-based applications.
 </p>
-
-<strong>Focus Areas</strong>
-
-<ul>
-<li>Core Java</li>
-<li>Object-Oriented Programming</li>
-<li>Problem Solving</li>
-<li>Console Applications</li>
-</ul>
-
-<br>
 
 <div align="center">
 
@@ -318,19 +244,15 @@ Completed a multi-level Java development internship focused on hands-on programm
 <h3>🚀 Internship Projects</h3>
 
 <p>
-<strong>Level 1</strong><br>
-Core Java
+<strong>Level 1</strong> — Core Java
 </p>
 
 <p>
-<strong>Level 2</strong><br>
-Java Development
+<strong>Level 2</strong> — Java Development
 </p>
 
 <p>
-<strong>Level 3</strong><br>
-Library Management System<br>
-& Multithreaded Chat
+<strong>Level 3</strong> — Library Management System & Multithreaded Chat
 </p>
 
 <br>
