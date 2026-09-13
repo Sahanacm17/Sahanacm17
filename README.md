@@ -4,17 +4,23 @@
 
 <br>
 
-# Sahana C M
+<h1>Sahana C M</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=22&pause=1000&color=9B5DE5&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Python+%7C+Web+Development;Building+Practical+Projects;Always+Learning+Something+New" alt="Typing animation">
 
-### Aspiring Software Engineer
+<br>
 
-**Java • Python • Web Development**
+<h3>Aspiring Software Engineer</h3>
 
+<p>
+<strong>Java • Python • Web Development</strong>
+</p>
+
+<p>
 Building Projects • Learning • Growing 🌷
+</p>
 
-📍 Karnataka, India
+<p>📍 Karnataka, India</p>
 
 <br>
 
@@ -36,23 +42,35 @@ Building Projects • Learning • Growing 🌷
 
 ---
 
-## 🌷 About Me
+<h2 align="center">🌷 About Me</h2>
 
 <div align="center">
 
-### 👩🏻‍💻 Who I Am
+<h3>👩🏻‍💻 Who I Am</h3>
 
+<p>
 Information Science & Engineering graduate with a strong interest in software development and application building.
+</p>
 
-### 💻 What I Build
+<br>
 
+<h3>💻 What I Build</h3>
+
+<p>
 I enjoy creating practical projects, exploring technologies, and strengthening my programming and problem-solving skills.
+</p>
 
-### 🌱 Currently Learning
+<br>
 
-**Java • Python • Web Development**
+<h3>🌱 Currently Learning</h3>
 
+<p>
+<strong>Java • Python • Web Development</strong>
+</p>
+
+<p>
 Databases, software engineering, and stronger problem-solving skills.
+</p>
 
 </div>
 
@@ -60,40 +78,52 @@ Databases, software engineering, and stronger problem-solving skills.
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
 
-### Programming Languages
+<h3>Programming Languages</h3>
 
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+</p>
 
-### Frontend
+<h3>Frontend</h3>
 
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
-### Backend
+<h3>Backend</h3>
 
+<p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-### Database
+<h3>Database</h3>
 
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
-### Cloud
+<h3>Cloud</h3>
 
+<p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
-### Tools & Version Control
+<h3>Tools & Version Control</h3>
 
+<p>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
 </div>
 
@@ -101,178 +131,283 @@ Databases, software engineering, and stronger problem-solving skills.
 
 ---
 
-## ✨ Featured Projects
+<h2 align="center">✨ Featured Projects</h2>
 
-### 🌸 Disaster SHEro
+<h3>🌸 Disaster SHEro</h3>
 
-**Digital Disaster Preparedness & Education Platform**
+<p>
+<strong>Digital Disaster Preparedness & Education Platform</strong>
+</p>
 
+<p>
 An interactive platform designed to improve disaster preparedness and awareness.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 🤖 AI chatbot support
-- 📝 Interactive quizzes
-- 🚨 Virtual disaster drills
-- 🔐 Secure user authentication
-- 🛠️ Admin dashboard
-- 📚 Disaster preparedness content
+<ul>
+<li>🤖 AI chatbot support</li>
+<li>📝 Interactive quizzes</li>
+<li>🚨 Virtual disaster drills</li>
+<li>🔐 Secure user authentication</li>
+<li>🛠️ Admin dashboard</li>
+<li>📚 Disaster preparedness content</li>
+</ul>
 
-**Technologies:**  
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MySQL`
+<p>
+<strong>Technologies:</strong>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+<code>Python</code>
+<code>Flask</code>
+<code>MySQL</code>
+</p>
 
 ---
 
-### 🛡️ Gramin Shield
+<h3>🛡️ Gramin Shield</h3>
 
-**AI-Powered Digital Payment Application**
+<p>
+<strong>AI-Powered Digital Payment Application</strong>
+</p>
 
+<p>
 A secure digital payment concept designed with rural and semi-literate users in mind.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 💳 Secure digital transactions
-- 🔐 Adaptive transaction security
-- 🔑 OTP authentication for high-value payments
-- 🤖 AI-based fraud detection
-- 📱 Accessible digital payment design
+<ul>
+<li>💳 Secure digital transactions</li>
+<li>🔐 Adaptive transaction security</li>
+<li>🔑 OTP authentication for high-value payments</li>
+<li>🤖 AI-based fraud detection</li>
+<li>📱 Accessible digital payment design</li>
+</ul>
 
-**Focus Areas:**  
-`AI` `Cybersecurity` `Digital Payments` `Fraud Detection`
+<p>
+<strong>Focus Areas:</strong>
+<code>AI</code>
+<code>Cybersecurity</code>
+<code>Digital Payments</code>
+<code>Fraud Detection</code>
+</p>
 
 ---
 
-### 📚 Library Management System
+<h3>📚 Library Management System</h3>
 
-**Java-Based Database-Driven System**
+<p>
+<strong>Java-Based Database-Driven System</strong>
+</p>
 
+<p>
 A database-connected Java application for managing books, users, and transactions.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 📖 Book management
-- 👤 User management
-- 🔄 Issue and return operations
-- 📋 Transaction management
-- 🗄️ CRUD operations
-- 🔗 JDBC database integration
+<ul>
+<li>📖 Book management</li>
+<li>👤 User management</li>
+<li>🔄 Issue and return operations</li>
+<li>📋 Transaction management</li>
+<li>🗄️ CRUD operations</li>
+<li>🔗 JDBC database integration</li>
+</ul>
 
-**Technologies:**  
-`Java` `JDBC` `MySQL` `SQL`
+<p>
+<strong>Technologies:</strong>
+<code>Java</code>
+<code>JDBC</code>
+<code>MySQL</code>
+<code>SQL</code>
+</p>
 
 ---
 
-### ⛓️ Aadhaar-Based Blockchain E-Voting System
+<h3>⛓️ Aadhaar-Based Blockchain E-Voting System</h3>
 
-**Secure Blockchain-Based E-Voting Prototype**
+<p>
+<strong>Secure Blockchain-Based E-Voting Prototype</strong>
+</p>
 
+<p>
 A prototype exploring secure and transparent digital voting using blockchain concepts.
+</p>
 
-**Key Features**
+<strong>Key Features</strong>
 
-- 🔗 Blockchain-based voting
-- 🆔 Decentralized Identity (DID)
-- 🔐 Cryptographic hashing
-- 🗄️ MongoDB integration
-- 🛡️ Secure voter authentication
-- 📦 Immutable vote storage
+<ul>
+<li>🔗 Blockchain-based voting</li>
+<li>🆔 Decentralized Identity (DID)</li>
+<li>🔐 Cryptographic hashing</li>
+<li>🗄️ MongoDB integration</li>
+<li>🛡️ Secure voter authentication</li>
+<li>📦 Immutable vote storage</li>
+</ul>
 
-**Technologies:**  
-`Blockchain` `DID` `Cryptography` `MongoDB`
+<p>
+<strong>Technologies:</strong>
+<code>Blockchain</code>
+<code>DID</code>
+<code>Cryptography</code>
+<code>MongoDB</code>
+</p>
 
 ---
 
-### ☕ Java Mini Projects
+<h3>☕ Java Mini Projects</h3>
 
+<p>
 A collection of Java mini-projects developed using Core Java, OOP concepts, and problem-solving techniques.
+</p>
 
-**Focus Areas**
+<strong>Focus Areas</strong>
 
-- Core Java
-- Object-Oriented Programming
-- Problem Solving
-- Console Applications
+<ul>
+<li>Core Java</li>
+<li>Object-Oriented Programming</li>
+<li>Problem Solving</li>
+<li>Console Applications</li>
+</ul>
 
 <br>
+
+<div align="center">
 
 <a href="https://github.com/Sahanacm17/Java-Mini-Projects">
 <img src="https://img.shields.io/badge/View%20Repository-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="View Java Mini Projects">
 </a>
 
+</div>
+
 <br>
 
 ---
 
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
-### ☕ Java Development Intern
+<h3>☕ Java Development Intern</h3>
 
-**Codveda Technologies**
+<p>
+<strong>Codveda Technologies</strong>
+</p>
 
+<p>
 Completed a multi-level Java development internship focused on hands-on programming and application development.
+</p>
 
-**Key Areas**
+<h3>🔑 Key Areas</h3>
 
-- ☕ Java application development
-- 🧩 Object-Oriented Programming
-- 🧠 Problem-solving
-- 🗄️ JDBC & MySQL
-- 🧵 Multithreading
-- 🌐 Socket programming
-- 🔧 Git & GitHub
+<ul>
+<li>☕ Java application development</li>
+<li>🧩 Object-Oriented Programming</li>
+<li>🧠 Problem-solving</li>
+<li>🗄️ JDBC & MySQL</li>
+<li>🧵 Multithreading</li>
+<li>🌐 Socket programming</li>
+<li>🔧 Git & GitHub</li>
+</ul>
 
-**Internship Projects**
+<h3>🚀 Internship Projects</h3>
 
-**Level 1**  
+<p>
+<strong>Level 1</strong><br>
 Core Java
+</p>
 
-**Level 2**  
+<p>
+<strong>Level 2</strong><br>
 Java Development
+</p>
 
-**Level 3**  
-Library Management System  
+<p>
+<strong>Level 3</strong><br>
+Library Management System<br>
 Multithreaded Chat
+</p>
 
 ---
 
-## 🏆 Achievements & Highlights
+<h2 align="center">🏆 Achievements & Highlights</h2>
 
-### 🚀 NASA Space Apps Challenge
+<h3>🚀 NASA Space Apps Challenge</h3>
 
+<p>
 Participated in a global collaborative challenge focused on solving real-world problems using technology, data, and innovation.
+</p>
 
-### 🔐 Cybersecurity Hackathon
+<h3>🔐 Cybersecurity Hackathon</h3>
 
+<p>
 Explored innovative cybersecurity solutions addressing real-world digital security challenges.
+</p>
 
-### 🌐 NetHive Technical Club
+<h3>🌐 NetHive Technical Club</h3>
 
+<p>
 Contributed to technical club activities, event coordination, and collaborative initiatives.
+</p>
 
-### 🎨 ICONIFY — Team Ninefinity
+<h3>🎨 ICONIFY — Team Ninefinity</h3>
 
+<p>
 Participated in a team-based logo design and creative technology activity.
+</p>
 
 ---
 
-## 📜 Certifications
-
-| Certification | Organization |
-|---|---|
-| 🐍 **The Joy of Computing using Python** — Elite | NPTEL, IIT Madras |
-| ☕ **Data Structures and Algorithms using Java** | NPTEL, IIT Kharagpur |
-| 🌐 **Computer Networks and Internet Protocol** | NPTEL, IIT Kharagpur |
-| ☁️ **Getting Started with AWS** | AWS |
-| 🍃 **Getting Started with MongoDB Atlas** | MongoDB |
-| 🔎 **Managing Atlas Vector Search Indexes** | MongoDB |
-
----
-
-## 💌 Let's Connect
+<h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 
-I'm always open to connecting with professionals, collaborating on meaningful projects, and exploring opportunities to learn and grow.
+<p>
+🐍 <strong>The Joy of Computing using Python</strong><br>
+NPTEL, IIT Madras — <strong>Elite | 64%</strong>
+</p>
+
+<p>
+☕ <strong>Data Structures and Algorithms using Java</strong><br>
+NPTEL, IIT Kharagpur
+</p>
+
+<p>
+🌐 <strong>Computer Networks and Internet Protocol</strong><br>
+NPTEL, IIT Kharagpur
+</p>
+
+<p>
+☁️ <strong>Getting Started with AWS</strong><br>
+AWS
+</p>
+
+<p>
+🍃 <strong>Getting Started with MongoDB Atlas</strong><br>
+MongoDB
+</p>
+
+<p>
+🔎 <strong>Managing Atlas Vector Search Indexes</strong><br>
+MongoDB
+</p>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">💌 Let's Connect</h2>
+
+<div align="center">
+
+<p>
+I’m always open to connecting with professionals, collaborating on meaningful projects,
+<br>
+and exploring opportunities to learn and grow.
+</p>
 
 <br>
 
@@ -290,6 +425,8 @@ I'm always open to connecting with professionals, collaborating on meaningful pr
 
 <br><br>
 
-**✨ Sahana C M ✨**
+<p>
+<strong>✨ Sahana C M ✨</strong>
+</p>
 
 </div>
