@@ -57,8 +57,6 @@ Information Science & Engineering graduate with a strong interest in software de
 
 <b>💻 What I Build</b>
 
-
-
 I enjoy creating practical projects, exploring technologies, and strengthening my programming and problem-solving skills.
 
 </td>
@@ -174,7 +172,8 @@ Databases, software engineering, and stronger problem-solving skills.
 <br>
 
 ---
-
+<div align="center">
+ 
 ## ✨ Featured Projects
 
 <table align="center">
@@ -319,29 +318,56 @@ Continuously building and experimenting with new projects to strengthen my devel
 
 ## 💼 Experience
 
-### ☕ Java Development Intern — Codveda Technologies
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☕ Java Development Intern
+**Codveda Technologies**
 
 Completed a multi-level Java development internship focused on hands-on programming and application development.
 
-**Key Areas**
+<br>
 
-- ☕ Java application development
-- 🧩 Object-Oriented Programming
-- 🧠 Problem-solving
-- 🗄️ JDBC & MySQL
-- 🧵 Multithreading
-- 🌐 Socket programming
-- 🔧 Git & GitHub
+<b>🔑 Key Areas</b>
 
-**Internship Projects**
+☕ Java application development  
+🧩 Object-Oriented Programming  
+🧠 Problem-solving  
+🗄️ JDBC & MySQL  
+🧵 Multithreading  
+🌐 Socket programming  
+🔧 Git & GitHub
 
-`Level 1 — Core Java`
+</td>
 
-`Level 2 — Java Development`
+<td width="50%" valign="top">
 
-`Level 3 — Library Management System & Multithreaded Chat`
+### 🚀 Internship Projects
 
----
+<br>
+
+<b>Level 1</b>  
+Core Java
+
+<b>Level 2</b>  
+Java Development
+
+<b>Level 3</b>  
+Library Management System  
+& Multithreaded Chat
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center">
 
 ## 🏆 Achievements & Highlights
 
@@ -504,21 +530,25 @@ Hands-on Learning
 
 ---
 
-<div align="center">
-
 ## 💌 Let's Connect
 
-I'm always open to connecting, collaborating, learning, and exploring new opportunities.
+<div align="center">
 
-<br><br>
+I’m always open to connecting with professionals, collaborating on meaningful projects,
+and exploring opportunities to learn and grow.
+
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<br>
+
 <a href="https://github.com/Sahanacm17">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br>
 
 <a href="mailto:sahanacm1720@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
