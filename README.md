@@ -1,31 +1,40 @@
 <div align="center">
 
-<!-- ===================================================== -->
-<!-- HERO -->
-<!-- ===================================================== -->
-
+<!-- 🌸 HERO SECTION -->
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF5F8">
+<td align="center" bgcolor="#FCE4EC">
 
 <br><br>
 
 <img src="./profile.jpeg" width="190" height="190" alt="Sahana C M"/>
 
-<h1>Sahana C M</h1>
+<h1> Sahana C M</h1>
 
-<h3>Aspiring Software Engineer</h3>
+<!-- ANIMATED TYPING EFFECT -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2500&pause=900&color=C77DAB&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Developer;Python+Developer;Web+Developer;Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Growing" 
+alt="Typing animation"/>
+
+<br><br>
 
 <p>
-Java &nbsp; • &nbsp; Python &nbsp; • &nbsp; Web Development
+ <b>Java</b>
+&nbsp; • &nbsp;
+<b>Python</b>
+&nbsp; • &nbsp;
+<b>Web Development</b> 
 </p>
 
 <p>
-Building Projects &nbsp; • &nbsp; Learning &nbsp; • &nbsp; Growing
+✨ Building Projects &nbsp; • &nbsp;
+Learning &nbsp; • &nbsp;
+Growing ✨
 </p>
 
 <p>
-Karnataka, India &nbsp; • &nbsp; sahanacm1720@gmail.com
+📍 Karnataka, India
+&nbsp; • &nbsp;
+📧 sahanacm1720@gmail.com
 </p>
 
 <br>
@@ -37,13 +46,13 @@ Karnataka, India &nbsp; • &nbsp; sahanacm1720@gmail.com
 &nbsp;
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-Profile-6D6875?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-8E7DBE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-C08497?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-B76E79?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -52,31 +61,34 @@ Karnataka, India &nbsp; • &nbsp; sahanacm1720@gmail.com
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- ABOUT ME -->
-<!-- ===================================================== -->
-
+<!--  ABOUT ME -->
 <table width="100%">
 <tr>
-<td bgcolor="#FFFFFF">
+<td align="center" bgcolor="#F7EAF4">
 
 <br>
 
-<h2>About Me</h2>
+<h2>🌸 About Me</h2>
+
+<hr width="60%">
 
 <p>
 Information Science & Engineering Graduate with an interest in
+<br>
 software development and application building.
 </p>
 
 <p>
 I enjoy developing practical projects, exploring technologies,
+<br>
 and strengthening my programming and problem-solving skills.
 </p>
 
 <p>
 Currently focused on improving my skills in Java, Python,
+<br>
 web development, databases, and software engineering.
 </p>
 
@@ -86,18 +98,18 @@ web development, databases, and software engineering.
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- TECH STACK -->
-<!-- ===================================================== -->
-
+<!-- 🌷 TECH STACK -->
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FAF4F8">
+<td align="center" bgcolor="#FCEEF5">
 
 <br>
 
-<h2>Tech Stack</h2>
+<h2>💻 Tech Stack</h2>
+
+<hr width="60%">
 
 <h3>Programming Languages</h3>
 
@@ -139,28 +151,34 @@ web development, databases, and software engineering.
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- PROJECTS -->
-<!-- ===================================================== -->
-
+<!-- 🪻 FEATURED PROJECTS -->
 <table width="100%">
 <tr>
-<td bgcolor="#FFFFFF">
+<td align="center" bgcolor="#F7EAF4">
 
 <br>
 
-<h2 align="center">Featured Projects</h2>
+<h2>🪻 Featured Projects</h2>
+
+<hr width="60%">
+
+<p>
+Selected projects showcasing development, problem-solving,
+<br>
+and practical application of technology.
+</p>
 
 <br>
 
-<table width="100%">
+<table width="94%">
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#FFF5F8">
 
-<h3 align="center">Disaster SHEro</h3>
+<h3 align="center">🌸 Disaster SHEro</h3>
 
 <p align="center">
 <b>Digital Disaster Preparedness & Education Platform</b>
@@ -181,10 +199,9 @@ HTML, CSS, JavaScript, Python, Flask, MySQL
 
 </td>
 
+<td width="50%" valign="top" bgcolor="#F3ECFA">
 
-<td width="50%" valign="top">
-
-<h3 align="center">Gramin Shield</h3>
+<h3 align="center">🛡️ Gramin Shield</h3>
 
 <p align="center">
 <b>AI-Powered Digital Payment Application</b>
@@ -211,12 +228,11 @@ AI, Cybersecurity, Digital Payments, Fraud Detection
 
 </tr>
 
-
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#F3ECFA">
 
-<h3 align="center">Library Management System</h3>
+<h3 align="center">📚 Library Management System</h3>
 
 <p align="center">
 <b>Java-Based Database-Driven System</b>
@@ -237,10 +253,9 @@ Java, JDBC, MySQL, SQL
 
 </td>
 
+<td width="50%" valign="top" bgcolor="#FFF5F8">
 
-<td width="50%" valign="top">
-
-<h3 align="center">Aadhaar-Based Blockchain E-Voting System</h3>
+<h3 align="center">🔐 Aadhaar-Based Blockchain E-Voting System</h3>
 
 <p align="center">
 <b>Secure Blockchain-Based E-Voting Prototype</b>
@@ -272,18 +287,31 @@ Blockchain, DID, Cryptography, MongoDB
 
 <br>
 
-<h3 align="center">Java Mini Projects</h3>
+<table width="94%">
+<tr>
 
-<p align="center">
+<td align="center" bgcolor="#FCE4EC">
+
+<h3>☕ Java Mini Projects</h3>
+
+<p>
 Collection of Java mini-projects developed using Core Java,
+<br>
 OOP concepts, and problem-solving techniques.
 </p>
 
-<p align="center">
+<br>
+
 <a href="https://github.com/Sahanacm17/Java-Mini-Projects">
-View Repository
+<img src="https://img.shields.io/badge/View%20Repository-8E7DBE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+<br><br>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -291,18 +319,19 @@ View Repository
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- EXPERIENCE -->
-<!-- ===================================================== -->
-
+<!-- 💼 EXPERIENCE -->
 <table width="100%">
 <tr>
-<td bgcolor="#FAF4F8">
+
+<td bgcolor="#F3ECFA">
 
 <br>
 
-<h2>Experience</h2>
+<h2 align="center">💼 Experience</h2>
+
+<hr width="60%">
 
 <h3>Java Development Intern — Codveda Technologies</h3>
 
@@ -335,92 +364,133 @@ Level 3 — Library Management System & Multithreaded Chat
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- ACHIEVEMENTS -->
-<!-- ===================================================== -->
-
+<!-- ✨ ACHIEVEMENTS -->
 <table width="100%">
 <tr>
-<td bgcolor="#FFFFFF">
+
+<td align="center" bgcolor="#FFF0F5">
 
 <br>
 
-<h2>Achievements & Highlights</h2>
+<h2>✨ Achievements & Highlights</h2>
 
-<h3>NASA Space Apps Challenge</h3>
+<hr width="60%">
+
+<table width="92%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚀 NASA Space Apps Challenge</h3>
 
 <p>
 Participated in a global collaborative challenge focused on
 solving real-world problems using technology and data.
 </p>
 
-<h3>Cybersecurity Hackathon</h3>
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Cybersecurity Hackathon</h3>
 
 <p>
 Explored innovative cybersecurity solutions addressing
 real-world digital security challenges.
 </p>
 
-<h3>NetHive Technical Club</h3>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 NetHive Technical Club</h3>
 
 <p>
 Contributed to technical club activities, event coordination,
 and collaborative initiatives.
 </p>
 
-<h3>ICONIFY — Team Ninefinity</h3>
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎨 ICONIFY — Team Ninefinity</h3>
 
 <p>
 Participated in a team-based logo design and creative
 technology activity.
 </p>
 
+</td>
+
+</tr>
+
+</table>
+
 <br>
 
 </td>
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- CERTIFICATIONS -->
-<!-- ===================================================== -->
-
+<!-- 📜 CERTIFICATIONS -->
 <table width="100%">
 <tr>
-<td bgcolor="#FAF4F8">
+
+<td bgcolor="#F7EAF4">
 
 <br>
 
-<h2>Certifications</h2>
+<h2 align="center">📜 Certifications</h2>
 
-<h3>NPTEL</h3>
+<hr width="60%">
+
+<h3>🎓 NPTEL</h3>
 
 <ul>
+
 <li>
-<b>The Joy of Computing using Python</b> — NPTEL, IIT Madras
+<b>The Joy of Computing using Python</b>
+— NPTEL, IIT Madras
 <br>
 <b>Elite | 64%</b>
 </li>
+
+<br>
 
 <li>
 <b>Data Structures and Algorithms using Java</b>
 — NPTEL, IIT Kharagpur
 </li>
 
+<br>
+
 <li>
 <b>Computer Networks and Internet Protocol</b>
 — NPTEL, IIT Kharagpur
 </li>
+
 </ul>
 
-<h3>Cloud & Database</h3>
+<h3>☁️ Cloud & Database</h3>
 
 <ul>
+
 <li><b>Getting Started with AWS</b> — AWS</li>
+
 <li><b>Getting Started with MongoDB Atlas</b> — MongoDB</li>
+
 <li><b>Managing Atlas Vector Search Indexes</b> — MongoDB</li>
+
 </ul>
 
 <br>
@@ -429,18 +499,19 @@ technology activity.
 </tr>
 </table>
 
+<br>
 
-<!-- ==================== GITHUB HIGHLIGHTS ==================== -->
-
+<!-- 💻 GITHUB HIGHLIGHTS -->
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFFFFF">
+
+<td align="center" bgcolor="#FCE4EC">
 
 <br>
 
-<h2>GitHub Highlights</h2>
+<h2>💻 GitHub Highlights</h2>
 
-<hr>
+<hr width="60%">
 
 <p>
 A growing collection of projects, experiments, and hands-on learning.
@@ -449,36 +520,40 @@ A growing collection of projects, experiments, and hands-on learning.
 <br>
 
 <table width="90%">
+
 <tr>
 
 <td align="center" width="33%">
 
-<h3>21+</h3>
-<p>Public Repositories</p>
+<h2>21+</h2>
+<p><b>Public Repositories</b></p>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>Java</h3>
-<p>Primary Development</p>
+<h2>Java</h2>
+<p><b>Primary Development</b></p>
 
 </td>
 
 <td align="center" width="33%">
 
-<h3>Projects</h3>
-<p>Hands-on Learning</p>
+<h2>Projects</h2>
+<p><b>Hands-on Learning</b></p>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-6D6875?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-C77DAB?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <br><br>
@@ -487,36 +562,71 @@ A growing collection of projects, experiments, and hands-on learning.
 </tr>
 </table>
 
+<br>
 
-
-
-<!-- ===================================================== -->
-<!-- BEYOND CODING -->
-<!-- ===================================================== -->
-
+<!-- 🌷 BEYOND CODING -->
 <table width="100%">
 <tr>
-<td bgcolor="#FAF4F8">
+
+<td align="center" bgcolor="#F3ECFA">
 
 <br>
 
-<h2>Beyond Coding</h2>
+<h2>🌷 Beyond Coding</h2>
+
+<hr width="60%">
+
+<table width="88%">
+
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🤝 Team Collaboration</h3>
 
 <p>
 Team collaboration and communication
 </p>
 
+</td>
+
+<td align="center" width="50%">
+
+<h3>🎤 Event Coordination</h3>
+
 <p>
 Event coordination and technical activities
 </p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<h3>🎨 Creativity</h3>
 
 <p>
 Creativity and idea development
 </p>
 
+</td>
+
+<td align="center" width="50%">
+
+<h3>🌱 Continuous Growth</h3>
+
 <p>
 Continuous learning and personal growth
 </p>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
@@ -524,18 +634,19 @@ Continuous learning and personal growth
 </tr>
 </table>
 
+<br>
 
-<!-- ===================================================== -->
-<!-- CONNECT -->
-<!-- ===================================================== -->
-
+<!-- 💖 CONNECT -->
 <table width="100%">
 <tr>
-<td align="center" bgcolor="#FFF5F8">
+
+<td align="center" bgcolor="#FCE4EC">
 
 <br><br>
 
-<h2>Let's Connect</h2>
+<h2>💖 Let's Connect</h2>
+
+<hr width="60%">
 
 <p>
 Always open to connecting, collaborating, and learning.
@@ -544,26 +655,32 @@ Always open to connecting, collaborating, and learning.
 <br>
 
 <a href="https://www.linkedin.com/in/sahana-c-m-194083410/">
+
 <img src="https://img.shields.io/badge/LinkedIn-Connect-C77DAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 &nbsp;
 
 <a href="https://github.com/Sahanacm17">
-<img src="https://img.shields.io/badge/GitHub-Follow-6D6875?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Follow-8E7DBE?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 &nbsp;
 
 <a href="mailto:sahanacm1720@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-C08497?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Email-Contact-B76E79?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <br><br>
 
-<p>
-Sahana C M
-</p>
+<h3> Sahana C M</h3>
+
+<p>✨ Building • Learning • Growing ✨</p>
 
 <br>
 
