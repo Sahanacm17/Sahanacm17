@@ -52,15 +52,11 @@ Building Projects • Learning • Growing 🌷
 Information Science & Engineering graduate with a strong interest in software development and application building.
 </p>
 
-<br>
-
 <h3>💻 What I Build</h3>
 
 <p>
 I enjoy creating practical projects, exploring technologies, and strengthening my programming and problem-solving skills.
 </p>
-
-<br>
 
 <h3>🌱 Currently Learning</h3>
 
@@ -85,44 +81,44 @@ Databases, software engineering, and stronger problem-solving skills.
 <h3>Programming Languages</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
 </p>
 
 <h3>Frontend</h3>
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
 <h3>Backend</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
 <h3>Database</h3>
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
 <h3>Cloud</h3>
 
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 </p>
 
 <h3>Tools & Version Control</h3>
 
 <p>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </p>
 
 </div>
@@ -164,6 +160,8 @@ An interactive platform designed to improve disaster preparedness and awareness.
 <code>MySQL</code>
 </p>
 
+<br>
+
 ---
 
 <h3>🛡️ Gramin Shield</h3>
@@ -193,6 +191,8 @@ A secure digital payment concept designed with rural and semi-literate users in 
 <code>Digital Payments</code>
 <code>Fraud Detection</code>
 </p>
+
+<br>
 
 ---
 
@@ -225,6 +225,8 @@ A database-connected Java application for managing books, users, and transaction
 <code>SQL</code>
 </p>
 
+<br>
+
 ---
 
 <h3>⛓️ Aadhaar-Based Blockchain E-Voting System</h3>
@@ -255,6 +257,8 @@ A prototype exploring secure and transparent digital voting using blockchain con
 <code>Cryptography</code>
 <code>MongoDB</code>
 </p>
+
+<br>
 
 ---
 
@@ -326,8 +330,10 @@ Java Development
 <p>
 <strong>Level 3</strong><br>
 Library Management System<br>
-Multithreaded Chat
+& Multithreaded Chat
 </p>
+
+<br>
 
 ---
 
@@ -356,6 +362,8 @@ Contributed to technical club activities, event coordination, and collaborative 
 <p>
 Participated in a team-based logo design and creative technology activity.
 </p>
+
+<br>
 
 ---
 
@@ -391,6 +399,54 @@ MongoDB
 <p>
 🔎 <strong>Managing Atlas Vector Search Indexes</strong><br>
 MongoDB
+</p>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">📊 GitHub Highlights</h2>
+
+<div align="center">
+
+<p>
+💻 <strong>Java</strong> — Primary Development
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🚀 <strong>Projects</strong> — Hands-on Learning
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📚 <strong>Learning</strong> — Continuous Growth
+</p>
+
+<br>
+
+<a href="https://github.com/Sahanacm17">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-9B5DE5?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub">
+</a>
+
+</div>
+
+<br>
+
+---
+
+<h2 align="center">🌱 Beyond Coding</h2>
+
+<div align="center">
+
+<p>
+🤝 <strong>Team Collaboration</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎤 <strong>Communication</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎯 <strong>Event Coordination</strong>
+</p>
+
+<p>
+💡 <strong>Idea Development</strong>
+&nbsp;&nbsp; • &nbsp;&nbsp;
+📚 <strong>Continuous Learning</strong>
 </p>
 
 </div>
