@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2500&pause=900&color=C77DAB&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Developer;Python+Developer;Web+Developer;Problem+Solver;Building+%E2%80%A2+Learning+%E2%80%A2+Growing" 
 alt="Typing animation"/>
 
-<br><br>
+<br>
 
 <p>
  <b>Java</b>
